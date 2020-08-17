@@ -1,0 +1,6 @@
+framework module MagicPlayer {
+  umbrella header "MagicPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
